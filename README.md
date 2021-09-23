@@ -1,4 +1,5 @@
 - 👋  Hi, I’m Kate Malinis. 
+- 🎓  The University of Texas at Dallas | B.S. in Computer Science - May 2021
 - 👀  I’m interested in machine learning, data science, IoT (Internet of Things), and front-end development.
 - 🌱  I’m currently learning C# alongside improving my JavaScript, HTML/CSS, and Python skills.
 
