@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Kate Malinis. 
 - 👀  I’m interested in machine learning, data science, IoT (Internet of Things), and front-end development.
-- 🌱  I’m currently learning C# alongside improving my JavaScript, HTML/CSS, and Python skills.
+- 🌱  I’m currently learning C# improving my JavaScript, HTML/CSS, and Python skills.
 
 
 <!---
