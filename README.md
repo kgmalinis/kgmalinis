@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Kate Malinis. 
 - 🎓  The University of Texas at Dallas | B.S. in Computer Science - May 2021 ☄️
-- 💡  I’m interested in web development, both front-end and back-end.
+- 💡  I’m interested in web development (both front-end and back-end), machine learning, and cybersecurity.
 - 📚  I’m currently learning more about Java, Spring Boot, and SQL!
 
 
